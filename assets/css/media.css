@@ -1,0 +1,129 @@
+@media screen and (max-width: 1780px) {
+	
+}
+/****************************************************************************************************/
+@media screen and (max-width: 1600px) {
+	
+}
+/****************************************************************************************************/
+@media screen and (max-width: 1440px) {
+    
+}
+
+/****************************************************************************************************/
+
+@media screen and (max-width: 1366px) {
+	
+
+}
+/****************************************************************************************************/
+@media screen and (max-width: 1280px) {
+	
+}
+/****************************************************************************************************/
+@media screen and (max-width: 1199px) {
+	header ul li:not(:last-child){
+		margin-right: 20px;
+	}
+	.about-us-page{
+		padding: 60px 0;
+	}
+	.contact-us{
+		padding: 60px 0;
+	}
+}
+/****************************************************************************************************/
+@media screen and (max-width: 1080px) {
+	
+}
+/****************************************************************************************************/
+@media screen and (max-width: 991px) {
+	header{
+		padding: 20px 0;
+	}
+	.about-us:before{
+		content: none;
+	}
+	.about-us{
+		min-height: auto;
+		padding: 60px 0;
+	}
+	.clients-form-box {
+	    margin-top: 60px;
+	}
+	.help-call{
+		background-position: center left !important;
+	}
+	.help-call-no-box .default-button .btn{
+		border-color: var(--white-color);
+	}
+	.help-call-no-box .number a{
+		font-size: 25px;
+	}
+	.help-call{
+		padding: 60px 0;
+	}
+	.help-call-no-box{
+		max-width: 100%;
+	}
+	header ul li {
+		margin-bottom: 10px;
+	}
+	header ul li a,
+	header.sticky ul li a{
+		padding: 0;
+	}
+	.our-gallry .mt-60{
+		margin-top: 20px;
+	}
+}
+/***************************************HEIGHT*************************************************************/
+@media screen and (max-height: 899px) {
+
+}
+/***************************************HEIGHT*************************************************************/
+@media screen and (max-height: 700px) {
+
+}
+/****************************************************************************************************/
+@media screen and (max-width: 767px) {
+	.large-heading h2{
+		font-size: 30px;
+	}
+	.default-button a, .default-button .btn{
+		padding: 10px 20px;
+    	min-width: 110px;
+	}
+	.main-heading h2{
+		font-size: 24px;
+	}
+	.medium-heading h2{
+		font-size: 20px;
+	}
+	.padding-t-b-60{
+		padding: 40px 0;
+	}
+	.dashed-border{
+		padding: 0 20px 10px;
+	}
+}
+
+/****************************************************************************************************/
+@media screen and (max-width: 599px) {
+	
+}
+/****************************************************************************************************/
+@media screen and (max-width: 575px) {
+	
+}
+/****************************************************************************************************/
+
+@media screen and (max-width: 480px) {
+
+}
+
+/****************************************************************************************************/
+
+@media screen and (max-width: 375px) {
+
+}
